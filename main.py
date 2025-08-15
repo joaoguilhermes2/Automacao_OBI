@@ -11,7 +11,7 @@ from webdriver_manager.firefox import GeckoDriverManager
 
 # Configurações
 anos = ["OBI2018", "OBI2019", "OBI2020", "OBI2021", "OBI2022", "OBI2023", "OBI2024"]
-base_download_dir = r"C:\Users\estagio.cop1\Downloads\Downloads_OBI"
+base_download_dir = r"C:\Users\estagio.cop1\Downloads\OBI\Automacao_OBI\Downloads_OBI"
 
 def configurar_webdriver_firefox():
     """Configura e retorna o WebDriver Firefox (sem precisar configurar download)."""
@@ -27,9 +27,9 @@ def baixar_pdf(url, caminho_arquivo):
         resposta.raise_for_status()
         with open(caminho_arquivo, "wb") as f:
             f.write(resposta.content)
-        print(f"   ✅ Baixado: {os.path.basename(caminho_arquivo)}")
+        print(f"Baixado: {os.path.basename(caminho_arquivo)}")
     except Exception as e:
-        print(f"   ⚠ Erro ao baixar {url}: {e}")
+        print(f"Erro ao baixar {url}: {e}")
 
 def baixar_todos_links(driver, download_dir):
     """Captura os PDFs cujo texto começa com 'Caderno de tarefas da prova' e baixa direto."""
@@ -39,7 +39,7 @@ def baixar_todos_links(driver, download_dir):
         for link in links if link.text.strip().startswith("Caderno de tarefas da prova")
     ]
 
-    print(f"→ Encontrados {len(arquivos)} arquivos em {driver.current_url}")
+    print(f"--> Encontrados {len(arquivos)} arquivos em {driver.current_url}")
 
     for url in arquivos:
         nome_arquivo = os.path.basename(url)
@@ -85,17 +85,17 @@ def baixar_iniciacao(ano):
 
                     driver_sub.quit()
                 except Exception as e:
-                    print(f"⚠ Erro na subfase {fase}{sub} do ano {ano}: {e}")
+                    print(f"Erro na subfase {fase}{sub} do ano {ano}: {e}")
 
         except Exception as e:
-            print(f"⚠ Erro na fase {fase} do ano {ano}: {e}")
+            print(f"Erro na fase {fase} do ano {ano}: {e}")
 
 # Loop principal
 for ano in anos:
-    print(f"\n=== Baixando arquivos de {ano} - Iniciação ===")
+    print(f"\nBaixando arquivos de {ano} - Iniciação ===")
     try:
         baixar_iniciacao(ano)
     except Exception as e:
-        print(f"⚠ Erro geral no ano {ano}: {e}")
+        print(f"Erro geral no ano {ano}: {e}")
 
-print("\n✅ Todos os downloads concluídos!")
+print("\nTodos os downloads concluídos!")
