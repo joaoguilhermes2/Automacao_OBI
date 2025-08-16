@@ -1,0 +1,265 @@
+16/08/2025 13:01:48 - INFO - Automação - OBI iniciada.
+16/08/2025 13:01:48 - INFO - 
+Baixando arquivos de OBI2018 - Iniciação ===
+16/08/2025 13:01:48 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase1/iniciacao/
+16/08/2025 13:01:48 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:01:48 - INFO - ====== WebDriver manager ======
+16/08/2025 13:01:51 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:01:51 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:01:51 - INFO - There is no [win64] geckodriver "v0.36.0" for browser firefox "127.0" in cache
+16/08/2025 13:01:51 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:01:51 - INFO - Getting latest mozilla release info for v0.36.0
+16/08/2025 13:01:52 - INFO - About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.36.0/geckodriver-v0.36.0-win64.zip
+16/08/2025 13:01:52 - INFO - Driver downloading response is 200
+16/08/2025 13:01:52 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:01:52 - INFO - Driver has been saved in cache [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0]
+16/08/2025 13:02:02 - INFO - Página encontrada para fase1 de OBI2018.
+16/08/2025 13:02:02 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase1/iniciacao/
+16/08/2025 13:02:03 - INFO - Baixado: ProvaOBI2018_f1ij.pdf
+16/08/2025 13:02:03 - INFO - Baixado: ProvaOBI2018_f1i1.pdf
+16/08/2025 13:02:04 - INFO - Baixado: ProvaOBI2018_f1i2.pdf
+16/08/2025 13:02:07 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase2/iniciacao/
+16/08/2025 13:02:07 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:02:07 - INFO - ====== WebDriver manager ======
+16/08/2025 13:02:08 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:08 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:09 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:02:18 - INFO - Página encontrada para fase2 de OBI2018.
+16/08/2025 13:02:18 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase2/iniciacao/
+16/08/2025 13:02:19 - INFO - Baixado: ProvaOBI2018_f2ij.pdf
+16/08/2025 13:02:22 - INFO - Baixado: ProvaOBI2018_f2i1.pdf
+16/08/2025 13:02:22 - INFO - Baixado: ProvaOBI2018_f2i2.pdf
+16/08/2025 13:02:25 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase3/iniciacao/
+16/08/2025 13:02:25 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:02:25 - INFO - ====== WebDriver manager ======
+16/08/2025 13:02:27 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:27 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:27 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:02:37 - INFO - Página encontrada para fase3 de OBI2018.
+16/08/2025 13:02:37 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2018/fase3/iniciacao/
+16/08/2025 13:02:37 - INFO - Baixado: ProvaOBI2018_f3ij.pdf
+16/08/2025 13:02:37 - INFO - Baixado: ProvaOBI2018_f3i1.pdf
+16/08/2025 13:02:38 - INFO - Baixado: ProvaOBI2018_f3i2.pdf
+16/08/2025 13:02:41 - INFO - 
+Baixando arquivos de OBI2019 - Iniciação ===
+16/08/2025 13:02:41 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase1/iniciacao/
+16/08/2025 13:02:41 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:02:41 - INFO - ====== WebDriver manager ======
+16/08/2025 13:02:42 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:43 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:43 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:02:52 - INFO - Página encontrada para fase1 de OBI2019.
+16/08/2025 13:02:52 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase1/iniciacao/
+16/08/2025 13:02:53 - INFO - Baixado: ProvaOBI2019_f1ij.pdf
+16/08/2025 13:02:53 - INFO - Baixado: ProvaOBI2019_f1i1.pdf
+16/08/2025 13:02:54 - INFO - Baixado: ProvaOBI2019_f1i2.pdf
+16/08/2025 13:02:57 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase2/iniciacao/
+16/08/2025 13:02:57 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:02:57 - INFO - ====== WebDriver manager ======
+16/08/2025 13:02:59 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:59 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:02:59 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:03:09 - INFO - Página encontrada para fase2 de OBI2019.
+16/08/2025 13:03:09 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase2/iniciacao/
+16/08/2025 13:03:10 - INFO - Baixado: ProvaOBI2019_f2ij.pdf
+16/08/2025 13:03:11 - INFO - Baixado: ProvaOBI2019_f2i1.pdf
+16/08/2025 13:03:11 - INFO - Baixado: ProvaOBI2019_f2i2.pdf
+16/08/2025 13:03:14 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase3/iniciacao/
+16/08/2025 13:03:14 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:03:14 - INFO - ====== WebDriver manager ======
+16/08/2025 13:03:16 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:16 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:16 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:03:26 - INFO - Página encontrada para fase3 de OBI2019.
+16/08/2025 13:03:26 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2019/fase3/iniciacao/
+16/08/2025 13:03:27 - INFO - Baixado: ProvaOBI2019_f3ij.pdf
+16/08/2025 13:03:27 - INFO - Baixado: ProvaOBI2019_f3i1.pdf
+16/08/2025 13:03:27 - INFO - Baixado: ProvaOBI2019_f3i2.pdf
+16/08/2025 13:03:30 - INFO - 
+Baixando arquivos de OBI2020 - Iniciação ===
+16/08/2025 13:03:30 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase1/iniciacao-a/ (Turno A)
+16/08/2025 13:03:30 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:03:30 - INFO - ====== WebDriver manager ======
+16/08/2025 13:03:32 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:32 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:32 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:03:42 - INFO - Página encontrada para fase1 Turno A de OBI2020.
+16/08/2025 13:03:42 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase1/iniciacao-a/
+16/08/2025 13:03:42 - INFO - Baixado: ProvaOBI2020_f1ij.pdf
+16/08/2025 13:03:43 - INFO - Baixado: ProvaOBI2020_f1i1.pdf
+16/08/2025 13:03:43 - INFO - Baixado: ProvaOBI2020_f1i2.pdf
+16/08/2025 13:03:46 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase1/iniciacao-b/ (Turno B)
+16/08/2025 13:03:46 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:03:46 - INFO - ====== WebDriver manager ======
+16/08/2025 13:03:48 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:48 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:03:48 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:04:01 - INFO - Página encontrada para fase1 Turno B de OBI2020.
+16/08/2025 13:04:01 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase1/iniciacao-b/
+16/08/2025 13:04:02 - INFO - Baixado: ProvaOBI2020_f1ij-b.pdf
+16/08/2025 13:04:04 - INFO - Baixado: ProvaOBI2020_f1i1-b.pdf
+16/08/2025 13:04:05 - INFO - Baixado: ProvaOBI2020_f1i2-b.pdf
+16/08/2025 13:04:08 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase2/iniciacao/
+16/08/2025 13:04:08 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:04:08 - INFO - ====== WebDriver manager ======
+16/08/2025 13:04:10 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:11 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:11 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:04:20 - INFO - Página encontrada para fase2 de OBI2020.
+16/08/2025 13:04:21 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase2/iniciacao/
+16/08/2025 13:04:21 - INFO - Baixado: ProvaOBI2020_f2ij.pdf
+16/08/2025 13:04:22 - INFO - Baixado: ProvaOBI2020_f2i1.pdf
+16/08/2025 13:04:22 - INFO - Baixado: ProvaOBI2020_f2i2.pdf
+16/08/2025 13:04:25 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase3/iniciacao/
+16/08/2025 13:04:25 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:04:25 - INFO - ====== WebDriver manager ======
+16/08/2025 13:04:27 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:27 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:28 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:04:38 - INFO - Página encontrada para fase3 de OBI2020.
+16/08/2025 13:04:38 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2020/fase3/iniciacao/
+16/08/2025 13:04:38 - INFO - Baixado: ProvaOBI2020_f3ij.pdf
+16/08/2025 13:04:38 - INFO - Baixado: ProvaOBI2020_f3i1.pdf
+16/08/2025 13:04:39 - INFO - Baixado: ProvaOBI2020_f3i2.pdf
+16/08/2025 13:04:42 - INFO - 
+Baixando arquivos de OBI2021 - Iniciação ===
+16/08/2025 13:04:42 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase1/iniciacao/
+16/08/2025 13:04:42 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:04:42 - INFO - ====== WebDriver manager ======
+16/08/2025 13:04:44 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:44 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:04:44 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:04:54 - INFO - Página encontrada para fase1 de OBI2021.
+16/08/2025 13:04:54 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase1/iniciacao/
+16/08/2025 13:04:54 - INFO - Baixado: ProvaOBI2021_f1ij.pdf
+16/08/2025 13:04:55 - INFO - Baixado: ProvaOBI2021_f1i1.pdf
+16/08/2025 13:04:55 - INFO - Baixado: ProvaOBI2021_f1i2.pdf
+16/08/2025 13:04:58 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase2/iniciacao/
+16/08/2025 13:04:58 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:04:58 - INFO - ====== WebDriver manager ======
+16/08/2025 13:05:00 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:00 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:00 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:05:09 - INFO - Página encontrada para fase2 de OBI2021.
+16/08/2025 13:05:09 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase2/iniciacao/
+16/08/2025 13:05:09 - INFO - Baixado: ProvaOBI2021_f2ij.pdf
+16/08/2025 13:05:10 - INFO - Baixado: ProvaOBI2021_f2i1.pdf
+16/08/2025 13:05:10 - INFO - Baixado: ProvaOBI2021_f2i2.pdf
+16/08/2025 13:05:13 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase3/iniciacao/
+16/08/2025 13:05:13 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:05:13 - INFO - ====== WebDriver manager ======
+16/08/2025 13:05:15 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:15 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:15 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:05:28 - INFO - Página encontrada para fase3 de OBI2021.
+16/08/2025 13:05:28 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2021/fase3/iniciacao/
+16/08/2025 13:05:29 - INFO - Baixado: ProvaOBI2021_f3ij.pdf
+16/08/2025 13:05:30 - INFO - Baixado: ProvaOBI2021_f3i1.pdf
+16/08/2025 13:05:31 - INFO - Baixado: ProvaOBI2021_f3i2.pdf
+16/08/2025 13:05:34 - INFO - 
+Baixando arquivos de OBI2022 - Iniciação ===
+16/08/2025 13:05:34 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase1/iniciacao/
+16/08/2025 13:05:34 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:05:34 - INFO - ====== WebDriver manager ======
+16/08/2025 13:05:36 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:36 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:36 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:05:46 - INFO - Página encontrada para fase1 de OBI2022.
+16/08/2025 13:05:47 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase1/iniciacao/
+16/08/2025 13:05:47 - INFO - Baixado: ProvaOBI2022_f1ij.pdf
+16/08/2025 13:05:47 - INFO - Baixado: ProvaOBI2022_f1i1.pdf
+16/08/2025 13:05:48 - INFO - Baixado: ProvaOBI2022_f1i2.pdf
+16/08/2025 13:05:52 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase2/iniciacao/
+16/08/2025 13:05:52 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:05:52 - INFO - ====== WebDriver manager ======
+16/08/2025 13:05:55 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:55 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:05:55 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:06:08 - INFO - Página encontrada para fase2 de OBI2022.
+16/08/2025 13:06:08 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase2/iniciacao/
+16/08/2025 13:06:08 - INFO - Baixado: ProvaOBI2022_f2ij.pdf
+16/08/2025 13:06:08 - INFO - Baixado: ProvaOBI2022_f2i1.pdf
+16/08/2025 13:06:09 - INFO - Baixado: ProvaOBI2022_f2i2.pdf
+16/08/2025 13:06:16 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase3/iniciacao/
+16/08/2025 13:06:16 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:06:16 - INFO - ====== WebDriver manager ======
+16/08/2025 13:06:21 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:06:21 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:06:21 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:06:35 - INFO - Página encontrada para fase3 de OBI2022.
+16/08/2025 13:06:36 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2022/fase3/iniciacao/
+16/08/2025 13:06:37 - INFO - Baixado: ProvaOBI2022_f3ij.pdf
+16/08/2025 13:06:37 - INFO - Baixado: ProvaOBI2022_f3i1.pdf
+16/08/2025 13:06:37 - INFO - Baixado: ProvaOBI2022_f3i2.pdf
+16/08/2025 13:06:42 - INFO - 
+Baixando arquivos de OBI2023 - Iniciação ===
+16/08/2025 13:06:42 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase1/iniciacao/
+16/08/2025 13:06:42 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:06:42 - INFO - ====== WebDriver manager ======
+16/08/2025 13:06:46 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:06:46 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:06:46 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:06:56 - INFO - Página encontrada para fase1 de OBI2023.
+16/08/2025 13:06:56 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase1/iniciacao/
+16/08/2025 13:06:56 - INFO - Baixado: ProvaOBI2023_f1ij.pdf
+16/08/2025 13:06:57 - INFO - Baixado: ProvaOBI2023_f1i1.pdf
+16/08/2025 13:06:57 - INFO - Baixado: ProvaOBI2023_f1i2.pdf
+16/08/2025 13:07:00 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase2/iniciacao/
+16/08/2025 13:07:00 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:07:00 - INFO - ====== WebDriver manager ======
+16/08/2025 13:07:02 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:02 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:02 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:07:12 - INFO - Página encontrada para fase2 de OBI2023.
+16/08/2025 13:07:12 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase2/iniciacao/
+16/08/2025 13:07:12 - INFO - Baixado: ProvaOBI2023_f2ij.pdf
+16/08/2025 13:07:13 - INFO - Baixado: ProvaOBI2023_f2i1.pdf
+16/08/2025 13:07:13 - INFO - Baixado: ProvaOBI2023_f2i2.pdf
+16/08/2025 13:07:16 - INFO - Acessando https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase3/iniciacao/
+16/08/2025 13:07:16 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:07:16 - INFO - ====== WebDriver manager ======
+16/08/2025 13:07:18 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:18 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:18 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:07:27 - INFO - Página encontrada para fase3 de OBI2023.
+16/08/2025 13:07:27 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2023/fase3/iniciacao/
+16/08/2025 13:07:28 - INFO - Baixado: ProvaOBI2023_f3ij.pdf
+16/08/2025 13:07:28 - INFO - Baixado: ProvaOBI2023_f3i1.pdf
+16/08/2025 13:07:29 - INFO - Baixado: ProvaOBI2023_f3i2.pdf
+16/08/2025 13:07:32 - INFO - 
+Baixando arquivos de OBI2024 - Iniciação ===
+16/08/2025 13:07:32 - INFO - Acessando URL especial para OBI2024: https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase1/iniciacao/cadernos/
+16/08/2025 13:07:32 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:07:32 - INFO - ====== WebDriver manager ======
+16/08/2025 13:07:33 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:33 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:34 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:07:43 - INFO - Página encontrada para fase1 de OBI2024.
+16/08/2025 13:07:43 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase1/iniciacao/cadernos/
+16/08/2025 13:07:45 - INFO - Baixado: ProvaOBI2024_f1ij.pdf
+16/08/2025 13:07:46 - INFO - Baixado: ProvaOBI2024_f1i1.pdf
+16/08/2025 13:07:49 - INFO - Baixado: ProvaOBI2024_f1i2.pdf
+16/08/2025 13:07:52 - INFO - Acessando URL especial para OBI2024: https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase2/iniciacao/cadernos/
+16/08/2025 13:07:52 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:07:52 - INFO - ====== WebDriver manager ======
+16/08/2025 13:07:54 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:54 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:07:54 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:08:03 - INFO - Página encontrada para fase2 de OBI2024.
+16/08/2025 13:08:03 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase2/iniciacao/cadernos/
+16/08/2025 13:08:05 - INFO - Baixado: ProvaOBI2024_f2ij.pdf
+16/08/2025 13:08:06 - INFO - Baixado: ProvaOBI2024_f2i1.pdf
+16/08/2025 13:08:06 - INFO - Baixado: ProvaOBI2024_f2i2.pdf
+16/08/2025 13:08:09 - INFO - Acessando URL especial para OBI2024: https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase3/iniciacao/cadernos/
+16/08/2025 13:08:09 - INFO - Configurando WebDriver Firefox (modo headless).
+16/08/2025 13:08:09 - INFO - ====== WebDriver manager ======
+16/08/2025 13:08:11 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:08:11 - INFO - Get LATEST geckodriver version for 127.0 firefox
+16/08/2025 13:08:11 - INFO - Driver [C:\Users\adrym\.wdm\drivers\geckodriver\win64\v0.36.0\geckodriver.exe] found in cache
+16/08/2025 13:08:21 - INFO - Página encontrada para fase3 de OBI2024.
+16/08/2025 13:08:21 - INFO - --> Encontrados 3 arquivos em https://olimpiada.ic.unicamp.br/passadas/OBI2024/fase3/iniciacao/cadernos/
+16/08/2025 13:08:21 - INFO - Baixado: ProvaOBI2024_f3ij.pdf
+16/08/2025 13:08:22 - INFO - Baixado: ProvaOBI2024_f3i1.pdf
+16/08/2025 13:08:23 - INFO - Baixado: ProvaOBI2024_f3i2.pdf
+16/08/2025 13:08:26 - INFO - 
+Todos os downloads concluídos!

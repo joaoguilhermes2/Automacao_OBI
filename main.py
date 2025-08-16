@@ -20,7 +20,7 @@ logger.info("Automação - OBI iniciada.")
 
 # Configurações
 anos = ["OBI2018", "OBI2019", "OBI2020", "OBI2021", "OBI2022", "OBI2023", "OBI2024"]
-base_download_dir = r"C:\Users\estagio.cop1\Downloads\OBI\Automacao_OBI\Downloads_OBI"
+base_download_dir = r"C:\Users\adrym\Documents\Automacao_OBI\Downloads_OBI"
 
 def configurar_webdriver_firefox():
     logger.info("Configurando WebDriver Firefox (modo headless).")
